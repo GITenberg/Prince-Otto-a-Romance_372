@@ -1,5 +1,8 @@
 _repo: Prince-Otto-a-Romance_372
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stevenson, Robert Louis
@@ -14,6 +17,8 @@ description: "Prince Otto: A Romance is a novel written by Robert Louis Stevenso
   \ referred to Prince Otto as \"my hardest effort\", one of the chapters was rewritten\
   \ eight times by Stevenson and once by his wife.\nThe Robert Louis Stevenson website\
   \ maintains a complete list of derivative works.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/372#Prince-Otto-a-Romance
 gutenberg_issued: '1995-12-01'
 gutenberg_type: Text
 identifiers:
